@@ -33,8 +33,8 @@ ocused on mastering Python, JavaScript, and app development.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiintech&layout=compact&theme=tokyonight&hide_border=true" height="180px" alt="Top Languages"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaiintech&theme=tokyonight&hide_border=true" height="180px" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiintech&layout=compact&theme=tokyonight&hide_border=true" height="180px" alt="Top Languages"/>
 </p>
 
 
