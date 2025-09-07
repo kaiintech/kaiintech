@@ -37,6 +37,7 @@ ocused on mastering Python, JavaScript, and app development.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaiintech&theme=tokyonight&hide_border=true" height="180px" alt="GitHub Streak"/>
 </p>
 
+
 ---
 
 ## 🎮 Featured Projects
