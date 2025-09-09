@@ -12,9 +12,7 @@
 
 ## 💻 About Me 
 ⚡ I enjoy turning ideas into functional, user-friendly projects.  
-🎯 Currently focused on Python, JavaScript, and building cross-platform apps.  
-🌱 Always learning, always improving.
-ocused on mastering Python, JavaScript, and app development.  
+🎯 Currently focused on Python, JavaScript, and building cross-platform apps. Focused on mastering Python, JavaScript, and app development.  
 
 ---
 
